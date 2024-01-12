@@ -5,6 +5,14 @@ Hallo Semua, perkenalkan kami dari tim Java SyntaxError. Kami membuat aplikasi d
    - Mendorong pengguna untuk mengadopsi gaya hidup sehat dengan menyediakan sumber daya dan tips.
    - Menjelajahi aspek-aspek kesehatan fisik, mental, dan emosional.
 
-# Team Members
+## Team Members
 
 ### Hustler
+ - Arjja Dharma Tjahjo
+
+### Hipster
+ - Mohammad Faalih
+ - Ardiansyah
+
+### Hacker
+ - Prakasa Putra
