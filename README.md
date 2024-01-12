@@ -16,3 +16,9 @@ Hallo Semua, perkenalkan kami dari tim Java SyntaxError. Kami membuat aplikasi d
 
 ### Hacker
  - Prakasa Putra
+
+## Project Goals
+
+Proyek "BestHealthy: Menjelajah Kesehatan Holistik" bertujuan mengembangkan aplikasi Android yang menyediakan informasi kesehatan holistik. Fokus utama proyek ini adalah meningkatkan kesadaran kesehatan, mendorong adopsi gaya hidup sehat, dan membangun komunitas aktif. Dengan fitur pencapaian pribadi dan antarmuka pengguna yang responsif, aplikasi ini menggunakan teknologi Android dan Firebase untuk keamanan data. Pengujian menyeluruh dan pengelolaan versi yang efisien mendukung tujuan proyek untuk memberikan pengalaman pengguna yang berkualitas. Dengan siklus iterasi dan pembaruan berkelanjutan, proyek ini bertujuan menjadi sumber daya kesehatan holistik yang terpercaya dan relevan bagi pengguna.
+
+## Documentation
